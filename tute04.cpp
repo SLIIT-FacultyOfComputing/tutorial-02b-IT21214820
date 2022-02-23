@@ -13,6 +13,7 @@ Do not modify the main function.*/
 
 #include <iostream>
 
+
 long Factorial(int no);
 long nCr(int n, int r);
 
